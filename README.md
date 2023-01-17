@@ -1,2 +1,2 @@
 # staticfiles
-static files 
+static files for the site harshityadav.in
